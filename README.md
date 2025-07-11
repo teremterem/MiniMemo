@@ -1,1 +1,1 @@
-# PrettyTrue
+# PrettyTrue.ai
